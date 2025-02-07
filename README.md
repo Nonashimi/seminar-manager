@@ -23,7 +23,7 @@ Seminar Manager — это веб-приложение на React для упр�
 1. **Клонируйте репозиторий:**
    ```bash
    git clone https://github.com/your-username/seminar-manager.git
-   cd seminar-manager
+   cd my-app
    ```
 
 2. **Установите зависимости:**
